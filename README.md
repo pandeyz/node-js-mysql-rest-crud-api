@@ -32,3 +32,6 @@ INSERT INTO users (id, name, email, created_at) VALUES
 (3, 'tutsmake', 'tuts@g.co', '2019-02-28 13:20:20'),
 (4, 'tut', 'tut@g.co', '2019-02-28 13:20:20'),
 (5, 'mhd', 'mhd@g.co', '2019-02-28 13:20:20');
+
+Step III:
+> npm start
